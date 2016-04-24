@@ -1,3 +1,26 @@
+## ecto_pcl (kinetic) - 0.4.4-0
+
+The packages in the `ecto_pcl` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic ecto_pcl` on `Sun, 24 Apr 2016 10:20:50 -0000`
+
+The `ecto_pcl` package was released.
+
+Version of package(s) in repository `ecto_pcl`:
+
+- upstream repository: https://github.com/plasmodic/ecto_pcl.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## ecto_pcl (jade) - 0.4.3-0
 
 The packages in the `ecto_pcl` repository were released into the `jade` distro by running `/usr/bin/bloom-release --track jade --rosdistro jade ecto_pcl` on `Tue, 01 Sep 2015 22:20:48 -0000`
