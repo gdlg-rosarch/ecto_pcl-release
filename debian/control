@@ -1,0 +1,12 @@
+Source: ros-kinetic-ecto-pcl
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, python-nose, ros-kinetic-catkin, ros-kinetic-ecto, ros-kinetic-ecto-ros, ros-kinetic-pcl-conversions, ros-kinetic-rosunit, ros-kinetic-sensor-msgs
+Homepage: http://plasmodic.github.io/ecto_pcl
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-ecto-pcl
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, ros-kinetic-ecto, ros-kinetic-ecto-ros, ros-kinetic-pcl-conversions, ros-kinetic-sensor-msgs
+Description: Ecto bindings for common PCL functionality.
